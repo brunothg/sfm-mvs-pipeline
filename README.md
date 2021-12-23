@@ -31,3 +31,13 @@ Since the libraries used contain partial support for CUDA, this should be instal
 
 When executing the program, parameters can be used to control the program flow.
 These can be displayed with --help.
+
+## Dependencies
+
+- OpenCV
+- openMVS
+- Ceres
+- PCL
+- openMP
+- Boost
+- CGAL
