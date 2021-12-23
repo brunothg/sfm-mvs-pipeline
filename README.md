@@ -34,10 +34,10 @@ These can be displayed with --help.
 
 ## Dependencies
 
-- OpenCV
-- openMVS
-- Ceres
-- PCL
-- openMP
-- Boost
-- CGAL
+- [OpenCV](https://opencv.org/)
+- [openMVS](https://github.com/cdcseacave/openMVS)
+- [Ceres](http://ceres-solver.org/)
+- [PCL](https://pointclouds.org/)
+- [openMP](https://www.openmp.org/)
+- [Boost](https://www.boost.org/)
+- [CGAL](https://www.cgal.org/)
