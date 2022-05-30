@@ -2,6 +2,8 @@
 
 Experimental SfM MVS pipeline
 
+[![FU Hagen 3D Modell mit Photogrammetrie (SfM/MVS)](https://img.youtube.com/vi/_74J3FLdIpA/0.jpg)](https://www.youtube.com/watch?v=_74J3FLdIpA)
+[![Wald 3D Modell mit Photogrammetrie (SfM/MVS)](https://img.youtube.com/vi/tVZjjC4iHy8/0.jpg)](https://www.youtube.com/watch?v=tVZjjC4iHy8)
 
 ## Struktur
 
